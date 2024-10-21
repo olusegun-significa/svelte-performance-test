@@ -1,0 +1,8 @@
+{
+    "rewrites": [
+      {
+        "source": "/elevar",
+        "destination": "https://hits.getelevar.com"
+      }
+    ]
+  }
